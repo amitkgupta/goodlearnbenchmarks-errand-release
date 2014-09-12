@@ -1,0 +1,6 @@
+---
+name: goodlearnbenchmarks-errand
+packages:
+  - golang_1.3
+templates:
+  run: bin/run
