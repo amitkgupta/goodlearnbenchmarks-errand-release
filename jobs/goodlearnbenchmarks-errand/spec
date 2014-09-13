@@ -2,5 +2,6 @@
 name: goodlearnbenchmarks-errand
 packages:
   - golang_1.3
+  - git
 templates:
   run: bin/run

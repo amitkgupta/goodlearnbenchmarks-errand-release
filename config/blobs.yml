@@ -4,3 +4,8 @@ golang_1.3/go1.3.linux-amd64.tar.gz:
   sha: !binary |-
     YjZiMTU0OTMzMDM5OTg3MDU2YWMzMDdlMjBjMjVmYTUwOGEwNmJhNg==
   size: 51123994
+git/git-1.7.11.2.tar.gz:
+  object_id: 4314c11b-0510-4733-8deb-68d2cae2c686
+  sha: !binary |-
+    ZjY3YjRmNmMwMjc3MjUwNDExYzY4NzJhZTdiOGE4NzJhZTExZDMxMw==
+  size: 4015780

@@ -1,0 +1,3 @@
+name: git
+files:
+- git/git-1.7.11.2.tar.gz
