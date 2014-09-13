@@ -11,4 +11,4 @@ go get -t -u -v github.com/amitkgupta/goodlearnbenchmarks/... || true
 go install github.com/onsi/ginkgo/ginkgo
 
 cd $GOPATH/src/github.com/amitkgupta/goodlearnbenchmarks
-ginkgo -r -keepGoing
+$GOPATH/bin/ginkgo -r -keepGoing
